@@ -1,4 +1,4 @@
-bmodule.exports = {
+module.exports = {
   siteTitle: "StartStreaming.dev", // <title>
   shortSiteTitle: "StartStreaming.dev - Guides for Livestreaming Code", // <title> ending for posts and pages
   siteDescription: "roberttables says just do it",
