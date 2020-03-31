@@ -13,7 +13,7 @@ module.exports = {
 
   /* info */
   headerTitle: "StartStreaming.dev",
-  headerSubTitle: "guides for livestreaming code",
+  headerSubTitle: "roberttables says just do it",
 
   /* manifest.json */
   manifestName: "StartStreaming.dev - Guides for Livestreaming Code",
