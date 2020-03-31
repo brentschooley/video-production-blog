@@ -1,7 +1,7 @@
-module.exports = {
+bmodule.exports = {
   siteTitle: "StartStreaming.dev", // <title>
   shortSiteTitle: "StartStreaming.dev - Guides for Livestreaming Code", // <title> ending for posts and pages
-  siteDescription: "Guides for Livestreaming Code",
+  siteDescription: "roberttables says just do it",
   siteUrl: "https://startstreaming.dev",
   // pathPrefix: "",
   siteImage: "preview.jpg",
